@@ -9,3 +9,4 @@
 8-firstdelete delete a file in a directory (not the working directory)
 9-firstdirdeletion is a script for deleting directory in another directory
 10-back is a script tochanges the working directory to the previous one
+11-lists is a script for listing hidden files, the current directory and the parent of the working directory with the boot in a long format
