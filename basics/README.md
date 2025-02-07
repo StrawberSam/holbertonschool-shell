@@ -6,3 +6,4 @@
 5-listfilesdigitonly is a script for display current directory contents long format/hidden files/user and group IDs display numerically
 6-firstdirectory is a script who create a directory in the tmp directory
 7-movethat file is a script to move a file in a directory (not the working directory) to another directory
+8-firstdelete delete a file in a directory (not the working directory)
