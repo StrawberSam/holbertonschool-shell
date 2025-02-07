@@ -7,3 +7,4 @@
 6-firstdirectory is a script who create a directory in the tmp directory
 7-movethat file is a script to move a file in a directory (not the working directory) to another directory
 8-firstdelete delete a file in a directory (not the working directory)
+9-firstdirdeletion is a script for deleting directory in another directory
