@@ -13,3 +13,4 @@
 12-file_type is a script to prints the type of the file in a directory
 13-symbolic_link is a script for creating a symbolic link on the current working directory with a name
 14-copy_file is a script for copiyng ALL files (hidden) to the parent working directory but only copy files that did not exist in the parent WD or newer than the version in the parent WD
+15-lets_move is a script for moving all the files beginning with with uppercase to another directory
