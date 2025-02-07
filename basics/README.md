@@ -8,3 +8,4 @@
 7-movethat file is a script to move a file in a directory (not the working directory) to another directory
 8-firstdelete delete a file in a directory (not the working directory)
 9-firstdirdeletion is a script for deleting directory in another directory
+10-back is a script tochanges the working directory to the previous one
