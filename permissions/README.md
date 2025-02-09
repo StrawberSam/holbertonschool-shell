@@ -4,3 +4,4 @@
 3 - change the owner of the file "hello" to the user "betty"
 4 - create an empty file
 5 - adds execute permission to the owner of the file "hello"
+6 - adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
