@@ -1,1 +1,3 @@
-description of the script for file permissions
+0 - switch the current user
+1 - prints the effective username of the current user
+
