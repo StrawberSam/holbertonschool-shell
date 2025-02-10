@@ -9,3 +9,4 @@
 8 - sets the permission to the file hello as follows - Owner: no permission at all - Group: no permission at all - Other users: all the permissions
 9 - sets the mode of the file hello to -rwxr-x-wx
 10 - sets the mode of a file the same as another file's mode (need to works for any mode)
+11 - execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
