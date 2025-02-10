@@ -11,3 +11,4 @@
 10 - sets the mode of a file the same as another file's mode (need to works for any mode)
 11 - execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 12 - create directory called my_dir with permissions 751 in the WD
+13 - change the group owner for a specific file
