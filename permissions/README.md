@@ -12,3 +12,4 @@
 11 - execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 12 - create directory called my_dir with permissions 751 in the WD
 13 - change the group owner for a specific file
+14 - change owner and group owner for all the files and directories in the WD
